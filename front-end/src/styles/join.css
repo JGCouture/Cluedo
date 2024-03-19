@@ -1,0 +1,58 @@
+.bg-join{
+    background-image: url('../images/join.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center; 
+    height: 100vh;
+  }
+
+  h1{
+
+    font-family: "YACgEbc43jc 0", _fb_, auto;
+    font-size: 3rem;
+    color: white;
+
+  }
+
+
+  .continue-button {
+    font-family: "YACgEbc43jc 0", _fb_, auto;
+    font-size: 3rem;
+    color: white;
+    display:contents;
+   
+  }
+  
+  .continue-text{
+  
+    animation: flash 3s infinite; 
+  
+  }
+  
+  @keyframes flash {
+    0% {
+      opacity: 0; /* Start with opacity 0 (hidden) */
+    }
+    50% {
+      opacity: 1; /* Halfway through, opacity 1 (fully visible) */
+    }
+    100% {
+      opacity: 0; /* Back to opacity 0 (hidden) */
+    }
+  }
+
+  .create-room, .join-room{
+    font-family: "YACgEbc43jc 0", _fb_, auto;
+    font-size: 1rem;
+    color: white;
+
+  }
+  
+  
+  .foot-info{
+    font-size: 1rem;
+    color: white;
+  
+  }
+  
+

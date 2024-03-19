@@ -1,0 +1,54 @@
+.bg-char{
+    background-image: url('../images/character-bg.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center; 
+    height: 100vh;
+  }
+
+  .characters{
+    height:100%;
+    width:90vw;
+  }
+
+
+  .play-button {
+    font-family: "YACgEbc43jc 0", _fb_, auto;
+    font-size: 3rem;
+    color: white;
+    display:contents;
+   
+  }
+  
+  .play-text{
+  
+    animation: flash 3s infinite; 
+  
+  }
+  
+  @keyframes flash {
+    0% {
+      opacity: 0; /* Start with opacity 0 (hidden) */
+    }
+    50% {
+      opacity: 1; /* Halfway through, opacity 1 (fully visible) */
+    }
+    100% {
+      opacity: 0; /* Back to opacity 0 (hidden) */
+    }
+  }
+
+  .foot-info{
+    font-size: 1rem;
+    color: white;
+  
+  }
+
+  .characters{
+    position: absolute;
+    top:20%;
+  }
+
+  .character-box{
+    width: 15vw;
+  }

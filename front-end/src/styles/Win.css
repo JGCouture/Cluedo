@@ -1,0 +1,18 @@
+.win-bg{
+    background-image: url('../images/win-bg.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center; 
+    height: 100vh;
+}
+
+
+h1{
+    font-family: "YACgEbc43jc 0", _fb_, auto;
+    font-size: 5rem;
+    color: white;
+}
+
+
+
+
