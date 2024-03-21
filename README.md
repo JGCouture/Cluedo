@@ -13,7 +13,6 @@ This game is a simplified version of the popular board game, Clue®, accommodati
 
 ![cludeo Suggestion](/front-end/src/images/d5.png)
 
-![cludeo Note](/front-end/src/images/d6.png)
 
 
 
