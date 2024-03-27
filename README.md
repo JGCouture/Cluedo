@@ -5,7 +5,9 @@ This game is a simplified version of the popular board game, Clue®, accommodati
 
 # Setup
 nodemon index.js
+
 npm start
+
 ![cludeo Home](/front-end/src/images/d1.png)
 
 ![cludeo Join](/front-end/src/images/d2.png)
